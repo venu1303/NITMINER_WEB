@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NITMINER_WEB/static/css/main.a8434449.css",
+    "main.js": "/NITMINER_WEB/static/js/main.2edba92a.js",
+    "static/js/787.b1147543.chunk.js": "/NITMINER_WEB/static/js/787.b1147543.chunk.js",
+    "index.html": "/NITMINER_WEB/index.html",
+    "main.a8434449.css.map": "/NITMINER_WEB/static/css/main.a8434449.css.map",
+    "main.2edba92a.js.map": "/NITMINER_WEB/static/js/main.2edba92a.js.map",
+    "787.b1147543.chunk.js.map": "/NITMINER_WEB/static/js/787.b1147543.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8434449.css",
+    "static/js/main.2edba92a.js"
+  ]
+}
