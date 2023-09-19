@@ -1,0 +1,25 @@
+const About = () => {
+    return ( 
+        <>
+            <div className="about-img">
+                <div className="flex-vertical">
+                    <img src="https://wsdc.nitw.ac.in/facultynew/media/17074/17074.jpg" alt="Prof SG"/>
+                    <p style={{fontSize:"25px"}}><a href="https://wsdc.nitw.ac.in/facultynew/facultyprofile/id/17074"><b>Sangharatna Godboley</b></a></p>
+                    <p style={{fontSize:"25px"}}>Founder & Director </p>
+                </div>
+                <div className="flex-vertical">
+                    <img src="https://wsdc.nitw.ac.in/facultynew/media/16934/16934.jpg" alt="Prof.PRK" />
+                    <p style={{fontSize:"25px"}}><a href="https://wsdc.nitw.ac.in/facultynew/facultyprofile/id/16934"><b>Radha Krishna</b></a></p>
+                    <p style={{fontSize:"25px"}}>Co-Founder & Director </p>
+                </div>
+            </div>
+
+            <div className="about-data">
+                <h1>NITMINER TECHNOLOGIES PRIVATE LIMITED</h1>
+                <p style={{fontSize:"30px"}}>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam natus maxime illum, iure voluptatem corrupti amet officiis? Sunt dicta fugiat quisquam assumenda eum sed ipsum totam itaque facere rerum nulla cumque quas, tempora repellat doloremque aliquam molestiae quae, consequuntur ea nesciunt amet. Sequi facere exercitationem obcaecati soluta reprehenderit nemo libero dolorum ratione. Autem possimus atque quidem, eius cupiditate, rem a est quod laudantium eum sint, voluptas necessitatibus consequatur consectetur mollitia voluptates inventore placeat ullam iusto repudiandae. Cumque reiciendis, sequi accusamus ipsum debitis modi architecto saepe molestias fugit quas facilis numquam sunt cupiditate necessitatibus iste. Dolores dolorum quis autem, perspiciatis quaerat qui? Iste ea laboriosam veniam error facere porro inventore consequuntur voluptas dolores magni maxime similique, eveniet eligendi officia. Veritatis magnam fuga omnis amet voluptatum rerum non explicabo aut facilis delectus labore, ad culpa sit a sapiente modi placeat ex doloremque. Inventore itaque eligendi numquam accusamus maiores, impedit consequatur modi cum eum labore repellendus corporis facere perspiciatis in dolorum maxime dolores autem ipsa, voluptas esse? Exercitationem optio aspernatur nihil molestias aut dolorem, maxime eos nobis error provident nostrum nesciunt, beatae doloribus eaque cupiditate! Temporibus vero modi nam sequi numquam quidem quaerat corporis quibusdam asperiores, hic tempora illo esse nobis. Ut quisquam nemo consequatur aperiam sint tempora qui, rem fugit neque iste modi consequuntur voluptas nam animi exercitationem dolor eveniet doloribus quibusdam rerum adipisci iure, maiores labore quae ducimus. Veniam error possimus explicabo. Iste unde iusto ratione labore amet! Commodi, libero minima suscipit laboriosam eaque iure nihil qui illum eveniet similique at cupiditate laudantium omnis! Sapiente repellat obcaecati, laborum quibusdam iste culpa odio deleniti cupiditate distinctio rem necessitatibus sint, facilis laboriosam numquam totam eaque. Assumenda pariatur quidem odio et commodi explicabo est corrupti sunt, at sed iure nostrum repellat animi dolore ratione beatae fugiat dolor sint neque accusamus. Veniam, velit vero molestiae dolores in impedit incidunt nostrum, asperiores quam quia deserunt architecto itaque, perferendis optio doloremque. Architecto pariatur mollitia, dolores neque modi suscipit rerum praesentium magnam nihil, molestiae quo esse, amet dolore aspernatur minus ipsam a nobis possimus! Expedita animi repudiandae laboriosam accusamus earum optio nihil hic quibusdam quo enim velit magnam labore veritatis corporis, inventore alias? Autem incidunt maxime quis dolor nemo dolores alias, iste quidem cupiditate assumenda ex voluptas possimus, ea animi libero eveniet non tempore, ipsum tenetur totam magnam. At, doloribus. Quasi, tempora ipsam quos ullam omnis corrupti excepturi distinctio soluta facere voluptatem quaerat recusandae officiis asperiores impedit sed repellat? Accusantium ducimus omnis, iure architecto atque rerum doloribus dicta quod, quis magnam molestiae sit consectetur eaque vel voluptatum exercitationem, optio laborum pariatur quasi! Possimus commodi tempora esse, molestias temporibus quaerat eligendi suscipit voluptatem quos a voluptate odit dolore? Ut, harum? Iusto officia qui praesentium tempore dignissimos nam pariatur, consequatur nisi quis cumque magnam culpa, ipsa, aut et minima rerum. Nostrum ad autem eveniet maiores, ipsa nam facilis ipsum quisquam odio facere omnis adipisci fugiat cumque perferendis voluptatum nisi quod mollitia itaque quae. In voluptate iusto nam unde minus ratione assumenda, commodi animi expedita? Nesciunt odit magni possimus porro facere?</p>
+            </div>
+        </>
+     );
+}
+ 
+export default About;
